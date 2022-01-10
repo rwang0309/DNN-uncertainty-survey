@@ -1,6 +1,6 @@
 public:: true
 
-- ![2021-arxiv-A Survey of Uncertainty in Deep Neural Networks.pdf](../assets/2021-arxiv-A_Survey_of_Uncertainty_in_Deep_Neural_Networks_1641375207474_0.pdf)
+- ![2021-arxiv-A Survey of Uncertainty in Deep Neural Networks.pdf](assets/2021-arxiv-A_Survey_of_Uncertainty_in_Deep_Neural_Networks_1641375207474_0.pdf)
 -
 - # I. Introduction
 	- [[Overconfident issue of DNN]]
@@ -31,7 +31,7 @@ public:: true
 		- [[draws/2022-01-09-10-42-40.excalidraw]]
 		-
 		-
-	- ![image.png](../assets/image_1641784666747_0.png)
+	- ![image.png](assets/image_1641784666747_0.png)
 	-
 	- ((61dba35d-85be-49ab-9b10-b6301fc94b43))
 	-
@@ -122,7 +122,7 @@ public:: true
 			- ((61db9da6-7f1b-4ac8-b053-aab3c345391f))
 			- ((61db9e97-a584-4c40-b44a-87e0d30f179a))
 				- [66] Regularization with Cutout
-				- ![image.png](../assets/image_1641783266888_0.png){:height 438, :width 686}
+				- ![image.png](assets/image_1641783266888_0.png){:height 438, :width 686}
 			- ### Out-of-domain uncertainty (Reducible)
 				- ((61dba06e-1ae1-4e28-8ad9-5c84f439c371))
 			- ((61dab276-80f4-4b29-bce7-90e47a03a75d))
