@@ -4,5 +4,5 @@ by Jakob Gawlikowski, Cedrique Rovile Njieutcheu Tassi, Mohsin Ali, Jongseok Lee
 
 ## Chp2
 
-![image_1641784666747_0](..\assets\image_1641784666747_0.png)
+![image_1641784666747_0](assets\image_1641784666747_0.png)
 
